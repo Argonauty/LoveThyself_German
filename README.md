@@ -1,2 +1,2 @@
-# LoveThyself_German
-Love Thyself - A Horatio Story Language Mod /Translation Deutsch Author: Argonauty, Developer: AMPLITUDE Studios 
+# LoveThyself_GermanMod
+Love Thyself - A Horatio Story Language Mod/Translation Deutsch Author: Argonauty (alias Mondtor), Original Developer: AMPLITUDE Studios
